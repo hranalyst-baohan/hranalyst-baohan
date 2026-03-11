@@ -21,13 +21,13 @@
 ## 🌿 About Me
 
 ```yaml
-name       : Nguyen Bao Han
-role       : HR Data Analyst
-location   : Ho Chi Minh City, Vietnam 🇻🇳
-focus      : People Analytics  |  Workforce Planning  |  HR Reporting & Dashboards
-languages  : Vietnamese 🇻🇳  |  English 🇬🇧
-fuel       : Matcha Latte ☕ (non-negotiable!)
-currently  : Learning Python to level up HR analytics 
+Name       : Nguyen Bao Han
+Role       : HR Data Analyst
+Location   : Ho Chi Minh City, Vietnam 🇻🇳
+Focus      : People Analytics  |  Workforce Planning  |  HR Reporting & Dashboards
+Languages  : Vietnamese 🇻🇳  |  English 🇬🇧
+Fuel       : Matcha Latte ☕ (non-negotiable!)
+Currently  : Learning Python to level up HR analytics 
 ```
 
 > *"Every number in HR tells a human story —*
