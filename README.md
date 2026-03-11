@@ -18,7 +18,7 @@
 
 ---
 
-## 🌿 About Me
+## About Me
 
 ```yaml
 Name       : Nguyen Bao Han
@@ -35,7 +35,7 @@ Currently  : Learning Python to level up HR analytics
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Currently  : Learning Python to level up HR analytics
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
