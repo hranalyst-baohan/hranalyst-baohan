@@ -24,12 +24,10 @@
 name       : Nguyen Bao Han
 role       : HR Data Analyst
 location   : Ho Chi Minh City, Vietnam 🇻🇳
-focus      : People Analytics
-             Workforce Planning
-             HR Reporting & Dashboards
+focus      : People Analytics  |  Workforce Planning  |  HR Reporting & Dashboards
 languages  : Vietnamese 🇻🇳  |  English 🇬🇧
-fuel       : Iced milk coffee ☕ (non-negotiable!)
-currently  : Learning Python to level up HR analytics 🐍
+fuel       : Matcha Latte ☕ (non-negotiable!)
+currently  : Learning Python to level up HR analytics 
 ```
 
 > *"Every number in HR tells a human story —*
